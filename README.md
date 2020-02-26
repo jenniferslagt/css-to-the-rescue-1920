@@ -11,6 +11,10 @@ Do you know Riverdale? It's one of my favourite series on Netflix. In Riverdale,
 
 ## Interaction with CSS
 
+
+## Learning Goals
+
+
 ## Sources
 
 
