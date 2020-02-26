@@ -6,16 +6,16 @@
 Do you know Riverdale? It's one of my favourite series on Netflix. In Riverdale, there's a restaurant called Pop's Chock' Lit Shoppe. Pop's has its own style: it's very retro and it gots some nice neon lights. I make a interactive menu for Pop's by using pure CSS and HTML.
 
 
-## The presentation with CSS
+## What is CSS?
+CSS (Cascading Style Sheet) is used for the seperation and presentation of of a html page. For example, the layout, the fonts and the styling of a page. But it is more than styling. It can also add interaction, like animation, transitions or a hover. 
 
+## Learning Goals / Experimenting with CSS
 
-## Interaction with CSS
-
-
-## Learning Goals
-
+## Used data
 
 ## Sources
+
+## Credits
 
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
