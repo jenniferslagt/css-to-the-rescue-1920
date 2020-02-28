@@ -30,9 +30,17 @@ This are the main things I've applied (and learned!) in the past few weeks:
 * I changed the background of a text by using `-webkit-background-clip: text;`. 
 * I found out that there's a special CSS property which <u>only</u> works on a `q` element. This property is called `quotes`. The funny thing is that the value is a quotation mark between a quotation mark.
 
+## What is progressive enhancement?
+Progressive Enhancement (PE) is methodology that allows Web developers to concentrate on building the best possible websites for every user! So it has to work on every device, every browser, every internet connection so that everyone can interact with it. It offers a basic user experience and ensures stability. But it can costs more time from developers because they have to plan their project. In short: it emphasizes core web page content first.
+
+### How did I apply PE?
+To keep PE in mind, I changed the web fonts of the application.
+I used a simple web font. When a user has a slow network it can take some time to load the whole content. So I just kept it on sans-serif. Nobody wants to wait for the content ;)
+
+Because the (main) goal is to experiment with CSS, I don't think my application is the perfect example for PE. But it's always important to keep in mind that PE really matters for a good UX.
 
 ## Used data
-I didn't know what the menu of Pop's was, so I decided to search it. I only used a part of it. In the source you'll see the link to the website I used.
+I didn't know what the menu of Pop's was, so I decided to search it. I only used a part of it. In the source you'll see the link to the website I used. 
 
 ## Sources
 * The menu I used: https://aminoapps.com/c/riverdale/page/blog/pops-menu/KWjE_PrMIMuBxP642xGzBLMz5RwmNekrb5n<br>
@@ -42,22 +50,3 @@ You can go to my wiki to find the sources per topic.
 
 ## Credits
 I would like to thank the teachers, the extra "help students", the visitors and my fellow students for helping me to accomplish my learning goals.
-
-
-<!-- Add a link to your live demo in Github Pages 🌐-->
-
-<!-- ☝️ replace this description with a description of your own work -->
-
-<!-- Add a nice image here at the end of the week, showing off your shiny frontend 📸 -->
-
-<!-- Maybe a table of contents here? 📚 -->
-
-<!-- How about a section that describes how to install this project? 🤓 -->
-
-<!-- ...but how does one use this project? What are its features 🤔 -->
-
-<!-- What external data source is featured in your project and what are its properties 🌠 -->
-
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
