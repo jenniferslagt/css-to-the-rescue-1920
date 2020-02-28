@@ -35,7 +35,7 @@ Progressive Enhancement (PE) is methodology that allows Web developers to concen
 
 ### How did I apply PE?
 To keep PE in mind, I changed the web fonts of the application.
-I used a simple web font. When a user has a slow network it can take some time to load the whole content. So I just kept it on sans-serif. Nobody wants to wait for the content ;)
+I used a simple web font. When a user has a slow network it can take some time to load the whole content. So I just kept it on sans-serif. Nobody wants to wait for the content ;)  Besides, I also made my application responsive, so the content is visible on every device. The HTML has a semantic structure and the I used SVG code (instead of a file) which loads faster.
 
 Because the (main) goal is to experiment with CSS, I don't think my application is the perfect example for PE. But it's always important to keep in mind that PE really matters for a good UX.
 
