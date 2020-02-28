@@ -45,8 +45,11 @@ I didn't know what the menu of Pop's was, so I decided to search it. I only used
 ## Sources
 * The menu I used: https://aminoapps.com/c/riverdale/page/blog/pops-menu/KWjE_PrMIMuBxP642xGzBLMz5RwmNekrb5n<br>
 You can go to my wiki to find the sources per topic.
+* PE: https://www.freecodecamp.org/news/what-is-progressive-enhancement-and-why-it-matters-e80c7aaf834a/ <br>
+https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/
 
 ## Reflection
+I learned a lot about CSS in the past few weeks. I did knew that CSS was not only style, but also interaction. But the posibilities are way more than I thought. In the beginning I used the guide of website "CSS Tricks" a lot, because I thought this will contain a lot of the properties. Well, I has a lot of properties, but I found out the scope of CSS is much bigger. For example, you can combinate all this properties which can have an exciting output. CSS can change <u> a lot</u> of details. But I did have some struggles because of all those details (for example my struggles with the SVG's). Every detail can affect another detail. So sometimes the output wasn't what I expected. In short: the scope of CSS is very big, but don't forget to focus on the details. In the Netherlands we say: "Je ziet door de bomen het bos niet meer." 
 
 ## Credits
 I would like to thank the teachers, the extra "help students", the visitors and my fellow students for helping me to accomplish my learning goals.
