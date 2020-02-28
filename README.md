@@ -10,8 +10,9 @@ Do you know Riverdale? It's one of my favourite series on Netflix. In Riverdale,
 CSS (Cascading Style Sheet) is used for the seperation and presentation of of a html page. For example, the layout, the fonts and the styling of a page. But it is more than styling. It can also add interaction, like animation, transitions or a hover. 
 
 ## Learning Goals / Features
-This are the main things I've applied (and learned) in the past few weeks:
-* I made some pure animations which are only styled and animationed with CSS. See wiki > page: "A pure CSS animation"
+This are the main things I've applied (and learned!) in the past few weeks:
+* I made some pure animations which are only styled and animationed with CSS. See wiki > page: "A pure CSS animation".
+* I've made a cool hover animation: the logo of Pop's falls down when a user hovers over it. I made this with `@keyframes` where I transform the logo on a specific moment of the animation. 
 * I used CSS enitities for fun. These are CSS codes which convert numbers, letters or even some white space (and who knows maybe more :)).
 * I used z-index to play with the layers of elements. If the index of a element is higher, than it becomes on the foreground.
 * I didn't use any classes. Instead, I used child & sibling selectors, `:nth-child` (which selects the child of his parent) and  a simple CSS selector where you just use `[select-this]` in css and `<div select-this></div>` in HTML.
@@ -21,6 +22,13 @@ This are the main things I've applied (and learned) in the past few weeks:
 * All the SVG's haven't unique ID's or classes. The consequence about this is that styles are completely ruined :(. Solution: delete the `<style>` elements and apply CSS for the style. See my wiki > page: "Using CSS on a SVG" to read more about this.
 * I made my application responsive without any media queries. I used flexbox (`display:flex`) to fix this.
 * I learned what progressive enhancement is (see the next paragraph :))
+* I've made a crazy animation with smoke! When the page loads, a video (the smoke) is played and the word "MENU" appears. I didn't know that it's possible to make a cool animation with a video. I used `object-fit: cover;` to make the optimal size of the video.
+* I applied a filter with `backdrop-filter` on a image. I guess Photoshop is not longer neccessary!
+* I found out that you can use GIF's as a background:). The disadvantage is that you can't apply `backdrop-filter`.
+* I also found out that you can even add attributes with CSS! I used this: `content: attr(data-hover);`. (But actually I also didn't know what data-hover means).
+* I worked with pseudo-elements (a keyword that lets me style a specific part of the selected element). For example, I used this `h4::first-line`.
+* I changed the background of a text by using `-webkit-background-clip: text;`. 
+* I found out that there's a special CSS property which <u>only</u> works on a `q` element. This property is called `quotes`. The funny thing is that the value is a quotation mark between a quotation mark.
 
 
 ## Used data
