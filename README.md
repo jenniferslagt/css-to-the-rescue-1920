@@ -1,7 +1,6 @@
 # Pop's restaurant menu
 ![Schermafbeelding 2020-02-28 om 02 33 29](https://user-images.githubusercontent.com/45489420/75502298-c2893e80-59d2-11ea-9cfa-deb1ced0f4f0.png)
-
-
+[Visit the website here](https://jenniferslagt.github.io/css-to-the-rescue-1920)
 
 ## Description
 Do you know Riverdale? It's one of my favourite series on Netflix. In Riverdale, there's a restaurant called Pop's Chock' Lit Shoppe. Pop's has its own style: it's very retro and it gots some nice neon lights. I make a interactive menu for Pop's by using pure CSS and HTML.
